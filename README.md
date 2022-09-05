@@ -1,2 +1,2 @@
-# shell i/0 Redirection and FIltering 
+# Shell I/0 Redirection and FIltering 
 0. Hello World- > Write a script that prints “Hello, World”, followed by a new line to the standard output.
